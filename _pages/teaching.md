@@ -1,15 +1,19 @@
 ---
 layout: page
-permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+permalink: /teaching/
+description: University teaching, K–12 teaching, and teacher professional development.
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 4
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+_Teaching statement will be added as the dossier develops._
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
-
-{% include courses.liquid %}
+<div class="projects">
+{% assign items = site.projects | where: "category", "teaching" | sort: "importance" %}
+<div class="row row-cols-1 row-cols-md-3">
+{% for project in items %}
+  {% include projects.liquid %}
+{% endfor %}
+</div>
+</div>
