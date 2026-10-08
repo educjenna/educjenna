@@ -4,6 +4,7 @@ title: "CSforGood Project"
 description: "Elementary students applying computer science and AI to community problems."
 importance: 5
 category: research
+section: current
 ---
 
 **Period:** Fall 2025; Fall 2026  

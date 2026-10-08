@@ -4,6 +4,7 @@ title: "NSF SILICON Project"
 description: "Embodied, tangible learning experiences for the computing foundations of semiconductors."
 importance: 2
 category: research
+section: current
 ---
 
 **Role:** Graduate Research Assistant  

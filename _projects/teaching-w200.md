@@ -4,6 +4,7 @@ title: "EDUC-W200: Teaching with Technology"
 description: "Instructor-of-record experience preparing pre-service teachers to integrate technology into teaching."
 importance: 1
 category: teaching
+section: university
 ---
 
 **Role:** Associate Instructor / Instructor of Record  

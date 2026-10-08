@@ -4,6 +4,7 @@ title: "AI-Supported Lesson Planning for Pre-Service Teachers"
 description: "Design-based research on AI scaffolds for self-regulation and teacher lesson planning."
 importance: 1
 category: research
+section: current
 ---
 
 **Role:** Lead Researcher (first-author study)  
