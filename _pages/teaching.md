@@ -18,6 +18,10 @@ _Teaching statement will be added as the dossier develops._
 .teaching-role { font-weight: 600; margin-bottom: .15rem; }
 .teaching-date { color: var(--global-text-color-light); }
 .teaching-details ul { margin-bottom: 0; }
+
+.teaching-gallery { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:.8rem; margin-top:1rem; }
+.teaching-gallery img { width:100%; height:220px; object-fit:cover; border-radius:.35rem; }
+@media(max-width:700px){ .teaching-gallery{grid-template-columns:1fr}.teaching-gallery img{height:auto} }
 @media (max-width: 700px) { .teaching-entry { grid-template-columns: 1fr; gap: .75rem; } }
 </style>
 
@@ -66,6 +70,12 @@ _Teaching statement will be added as the dossier develops._
       <li>Supported Indiana educators in exploring artificial intelligence and its classroom applications.</li>
       <li>Facilitated discussion of practical instructional uses and considerations for integrating AI in teaching.</li>
     </ul>
+    <div class="teaching-gallery">
+      <img src="{{ '/assets/img/portfolio/teaching/ai-indiana-01.jpg' | relative_url }}" alt="AI in Indiana professional development">
+      <img src="{{ '/assets/img/portfolio/teaching/ai-indiana-02.png' | relative_url }}" alt="AI Across Indiana">
+      <img src="{{ '/assets/img/portfolio/teaching/ai-indiana-03.jpg' | relative_url }}" alt="AI in Indiana participants">
+      <img src="{{ '/assets/img/portfolio/teaching/ai-indiana-04.jpg' | relative_url }}" alt="Tangible AI professional development activity">
+    </div>
   </div>
 </div>
 
@@ -96,6 +106,11 @@ _Teaching statement will be added as the dossier develops._
       <li>Connected emerging technologies with practical classroom applications and pedagogically grounded integration.</li>
       <li>Delivered the 2023 invited session “Effective Classroom Integration of Generative AI.”</li>
     </ul>
+    <div class="teaching-gallery">
+      <img src="{{ '/assets/img/portfolio/teaching/invited-talk-01.jpg' | relative_url }}" alt="Invited talk">
+      <img src="{{ '/assets/img/portfolio/teaching/invited-talk-02.jpg' | relative_url }}" alt="District teacher professional development">
+      <img src="{{ '/assets/img/portfolio/teaching/invited-talk-03.jpg' | relative_url }}" alt="Invited professional learning session">
+    </div>
   </div>
 </div>
 

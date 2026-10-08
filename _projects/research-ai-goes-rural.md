@@ -43,3 +43,11 @@ At Jasper High School, generative AI was integrated across argumentative writing
   <div class="col-sm mt-3 mt-md-0">{% include figure.liquid loading="eager" path="assets/img/portfolio/research/ai-goes-rural-ela1.jpg" title="AI Goes Rural classroom collaboration" class="img-fluid rounded z-depth-1" %}</div>
   <div class="col-sm mt-3 mt-md-0">{% include figure.liquid loading="eager" path="assets/img/portfolio/research/ai-goes-rural-ela2.jpg" title="AI Goes Rural classroom implementation" class="img-fluid rounded z-depth-1" %}</div>
 </div>
+
+
+<div class="row mt-3">
+  <div class="col-sm-6 mb-3"><img src="{{ '/assets/img/portfolio/research/ai-goes-rural-jasper-career.jpg' | relative_url }}" alt="Jasper High School career preparation activity" class="img-fluid rounded z-depth-1"></div>
+  <div class="col-sm-6 mb-3"><img src="{{ '/assets/img/portfolio/research/ai-goes-rural-jasper-01.jpg' | relative_url }}" alt="Jasper High School AI-supported English Language Arts" class="img-fluid rounded z-depth-1"></div>
+  <div class="col-sm-6 mb-3"><img src="{{ '/assets/img/portfolio/research/ai-goes-rural-jasper-02.jpg' | relative_url }}" alt="Jasper High School classroom implementation" class="img-fluid rounded z-depth-1"></div>
+  <div class="col-sm-6 mb-3"><img src="{{ '/assets/img/portfolio/research/ai-goes-rural-jasper-03.jpg' | relative_url }}" alt="Jasper High School classroom activity" class="img-fluid rounded z-depth-1"></div>
+</div>
