@@ -1,5 +1,6 @@
 ---
 layout: page
+published: false
 title: "Funded Projects as Principal Investigator"
 description: "Teacher-led research, curriculum development, and technology-enhanced learning projects in South Korea."
 img: assets/img/portfolio/research/steam-cover.jpg
