@@ -10,6 +10,13 @@ section: k12
 
 **Context:** Grade 4 · Computer Science Education · 2023
 
-I introduced and facilitated game-based learning activities for elementary computer science education. The learning experience emphasized digital and game literacy, coding, peer collaboration, and students’ own game design.
+### Learning Design
+
+The learning experience used game-based approaches to develop digital and game literacy, coding competency, and collaborative problem solving. Students engaged with games as learning environments and progressed toward designing their own games.
+
+**Role & Contributions**
+- Designed and facilitated the Grade 4 game-based computer science learning experience.
+- Supported peer collaboration and student-created game design.
+- Connected game literacy with introductory coding and computational learning goals.
 
 {% include figure.liquid loading="eager" path="assets/img/portfolio/teaching/game-based-learning.jpg" title="Game-based computer science learning activities" class="img-fluid rounded z-depth-1" %}

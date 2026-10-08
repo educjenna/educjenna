@@ -10,5 +10,9 @@ category: service
 **Institution:** Seoul National University of Education  
 **Period:** 2021–2023
 
-This service experience preceded my doctoral studies at Indiana University and reflects continued engagement in graduate-student representation and academic community building.
+### Context
 
+Graduate-student representation at Seoul National University of Education provided an earlier foundation for continued academic community service and student leadership.
+
+**Contribution**
+- Represented graduate-student perspectives within the graduate-school community.

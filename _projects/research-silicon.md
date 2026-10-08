@@ -13,10 +13,14 @@ section: current
 **PI:** Kyungbin Kwon
 
 ### Overview
+
 The Semiconductor Informal Learning Initiative through Community-Oriented Networks using Tangibles and Mixed Reality (SILICON) develops informal learning experiences that make foundational computing ideas tangible for middle school learners and their families.
 
-### My role and work
-- Designing hands-on, embodied lessons on binary numbers, logic gates, and binary addition with logic gates.
-- Structuring lessons as community-based sessions in which students learn together with their families.
-- Presented the lesson design at the 2026 CRLT Graduate Student Poster Session.
+### Learning Design
 
+The curriculum uses hands-on and embodied activities to introduce binary numbers, logic gates, and binary addition with logic gates. Sessions are structured as community-based learning experiences in which students learn alongside family members.
+
+**Role & Contributions**
+- Designing the sequence of embodied computing lessons.
+- Developing activities that translate abstract computing concepts into tangible experiences.
+- Presented the lesson design at the 2026 CRLT Graduate Student Poster Session.

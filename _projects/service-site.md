@@ -10,5 +10,10 @@ category: service
 **Organization:** SIG–Instructional Design, Society for Information Technology and Teacher Education (SITE)  
 **Period:** 2026–Present
 
-Documentation and a fuller description of responsibilities and contributions can be added here as the role develops.
+### Context
 
+This national professional-service role represents graduate-student participation within SITE’s SIG–Instructional Design.
+
+**Role & Contributions**
+- Serves as the graduate student representative for the SIG.
+- Supports graduate-student participation and professional community engagement within instructional design.

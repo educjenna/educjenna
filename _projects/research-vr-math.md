@@ -12,11 +12,14 @@ section: earlier
 **Degree:** M.Ed., Elementary Mathematics Education, Seoul National University of Education  
 **Completed:** 2023
 
-This study examined the use of virtual reality in elementary mathematics and its relationship with students’ spatial ability and mathematical attitudes.
+### Overview
 
-The work was presented at the 60th Conference of the Korea Society of Educational Studies in Mathematics and published in the conference proceedings.
+This master’s thesis examined virtual-reality-supported elementary mathematics instruction, with attention to both cognitive and affective outcomes: students’ spatial ability and mathematical attitudes.
 
-
-### Conference presentation
+**Role & Contributions**
+- Designed and conducted the master’s thesis study.
+- Developed the VR-supported mathematics learning experience.
+- Presented the study at the 60th Conference of the Korea Society of Educational Studies in Mathematics.
+- Published the work in the conference proceedings.
 
 {% include figure.liquid loading="eager" path="assets/img/portfolio/research/vr-math-presentation.jpg" title="Presentation of the VR mathematics research" class="img-fluid rounded z-depth-1" %}

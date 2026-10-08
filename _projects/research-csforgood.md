@@ -11,8 +11,10 @@ section: current
 **Sites:** Childs, Lakeview, and Unionville Elementary Schools, Indiana
 
 ### Overview
-I facilitated project-based learning in which elementary students applied computer science and AI to problems in their communities across three schools and two implementation cycles.
 
-### Research activities
-I collected student artifacts and classroom observations and conducted interviews with three in-service teachers.
+CSforGood uses project-based learning to engage elementary students in applying computer science and AI to problems in their communities. The work spans three schools and two implementation cycles.
 
+**Role & Contributions**
+- Facilitated project-based learning activities across participating schools.
+- Collected student artifacts and classroom observations.
+- Conducted interviews with three in-service teachers.

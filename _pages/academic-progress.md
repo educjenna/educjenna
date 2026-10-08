@@ -9,24 +9,14 @@ nav_order: 6
 
 I began the Ph.D. program in **Instructional Systems Technology at Indiana University Bloomington in August 2024**. My minor is **Qualitative and Quantitative Research Methodology**, and my advisor is **Dr. Kyungbin Kwon**.
 
-This page will document doctoral milestones and materials as they are completed. Dossier materials can be linked here without duplicating the research, teaching, and service portfolios.
+## Plan of Studies
 
-### Plan of Studies
+Doctoral coursework is substantially complete, including major-area and Research Methodology minor requirements. Remaining credits focus primarily on the R695 doctoral seminar sequence and dissertation research as the program progresses toward candidacy.
 
-_Status / document to be added._
+[**View Full Plan of Studies →**](https://docs.google.com/spreadsheets/d/1a9c9IqVkMnZ_E-ERib5z-0IwXmaPFYq5-5zFWNUpiXA/edit?usp=sharing){:target="_blank" rel="noopener noreferrer"}
 
-### Literature Review I
-
-_Title, brief description, and document to be added._
-
-### Literature Review II
-
-_Title, brief description, and document to be added._
-
-### First-Authored Study (FAS)
-
-_Title, status, and document to be added._
-
-### Dossier Reviews
+## Dossier Reviews
 
 Review dates, committee feedback précis, and subsequent progress will be added as the dossier develops.
+
+Current transcripts and other records containing non-public academic information are maintained separately for dossier review.

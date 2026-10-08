@@ -12,13 +12,18 @@ section: current
 **Institution:** Indiana University Bloomington
 
 ### Overview
+
 This design-based research project examines how AI can support pre-service teachers during lesson planning without encouraging cognitive offloading among novices with limited pedagogical content knowledge (PCK).
 
-### My role and work
-- Identified pre-service teachers’ lesson-planning challenges through a literature review and interviews with experienced instructors and undergraduate learning assistants.
-- Designed and prototyped an AI tool that scaffolds self-regulation during lesson planning.
-- Conducted iterative design cycles: Prototype 1 was implemented in two course sections in Spring 2026, followed by a refined Prototype 2 in three sections in Fall 2026.
+### Design & Development
 
-### Related scholarship
+The project began by identifying lesson-planning challenges through a literature review and interviews with experienced instructors and undergraduate learning assistants. These findings informed an AI-supported tool designed to scaffold self-regulation during lesson planning.
+
+**Role & Contributions**
+- Led problem identification, design, prototyping, and iterative implementation.
+- Implemented Prototype 1 in two course sections in Spring 2026.
+- Refined and implemented Prototype 2 in three course sections in Fall 2026.
+
+### Related Scholarship
+
 Findings are scheduled for presentation at the 2026 AECT International Convention.
-

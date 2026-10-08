@@ -6,8 +6,9 @@ importance: 4
 category: service
 ---
 
+### Professional Contributions
+
 - **Conference Volunteer**, AECT International Convention, 2025
 - **Expert Reviewer**, Elementary Mathematics Workbooks, Educational Broadcasting System (EBS), 2023
 
-Additional documentation can be linked here when available.
-
+The EBS review applied elementary mathematics expertise to the review of educational materials, while conference volunteering supported the broader professional community in educational technology.

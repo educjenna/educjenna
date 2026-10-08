@@ -11,9 +11,12 @@ section: university
 **Institution:** Indiana University Bloomington  
 **Terms:** Fall 2025; Spring 2026
 
-### Course overview
+### Course Context
+
 EDUC-W200 is a project-based course for pre-service teachers focused on technology integration. Course topics include inclusion and diversity, technology for productivity, and makerspaces.
 
-### Teaching and learning
-Students design technology-integrated lesson plans and build professional ePortfolios. Selected course materials, student work, and teaching evaluations can be added to this page as dossier documentation becomes available.
+### Learning Design & Implementation
 
+Students design technology-integrated lesson plans and build professional ePortfolios. The course provides sustained opportunities to connect instructional decisions with purposeful technology use.
+
+Selected course materials, student work, and teaching evaluations can be added as dossier documentation becomes available.
