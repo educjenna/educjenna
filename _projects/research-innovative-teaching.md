@@ -3,7 +3,7 @@ layout: page
 title: "Innovative Teaching Methods Research"
 description: "Funded research on blended and AI-enhanced learning materials informed by student and teacher data."
 img: assets/img/portfolio/research/innovative-teaching.jpg
-importance: 2
+importance: 3
 category: research
 section: earlier
 ---

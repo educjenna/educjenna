@@ -2,7 +2,7 @@
 layout: page
 title: "AI & Software Camp"
 description: "AI ethics, machine learning, robotics, coding, and digital literacy for elementary students."
-img: assets/img/portfolio/teaching/ai-sw-camp.jpg
+img: assets/img/portfolio/teaching/ai-sw-camp-cover.jpg
 importance: 4
 category: teaching
 section: k12

@@ -5,7 +5,7 @@ permalink: /
 subtitle: Ph.D. Student in Instructional Systems Technology · Indiana University Bloomington
 profile:
   align: right
-  image:
+  image: prof_pic.jpg
   image_circular: false
   more_info: >
     <p>School of Education</p>

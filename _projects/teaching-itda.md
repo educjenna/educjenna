@@ -3,7 +3,7 @@ layout: page
 title: "ITDA Online Teaching & Learning Materials"
 description: "Needs-informed development of nationwide online learning materials and teacher professional development."
 img: assets/img/portfolio/teaching/itda.jpg
-importance: 2
+importance: 3
 category: teaching
 section: teacher-ed
 ---

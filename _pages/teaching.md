@@ -20,7 +20,7 @@ _Teaching statement will be added as the dossier develops._
 </div>
 </div>
 
-## Teacher Education & Professional Development
+## Teacher Professional Development
 
 <div class="projects">
 {% assign items = site.projects | where: "category", "teaching" | where: "section", "teacher-ed" | sort: "importance" %}

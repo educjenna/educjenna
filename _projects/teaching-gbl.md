@@ -2,7 +2,7 @@
 layout: page
 title: "Game-Based Learning for CS Education"
 description: "Game-based computer science learning designed and facilitated for Grade 4 students."
-img: assets/img/portfolio/teaching/game-based-learning.jpg
+img: assets/img/portfolio/teaching/gbl-cover.jpg
 importance: 3
 category: teaching
 section: k12

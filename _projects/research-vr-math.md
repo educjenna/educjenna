@@ -3,7 +3,7 @@ layout: page
 title: "VR Mathematics Research"
 description: "Master’s thesis research on virtual reality, spatial ability, and mathematical attitudes in elementary mathematics."
 img: assets/img/portfolio/research/vr-math-presentation.jpg
-importance: 3
+importance: 4
 category: research
 section: earlier
 ---

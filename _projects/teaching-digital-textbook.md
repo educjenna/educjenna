@@ -2,7 +2,7 @@
 layout: page
 title: "AI-Supported Digital Mathematics Textbook"
 description: "Classroom implementation of an AI-supported mathematics textbook for personalized elementary learning."
-img: assets/img/portfolio/teaching/digital-textbook.jpg
+img: assets/img/portfolio/teaching/digital-textbook-cover.jpg
 importance: 2
 category: teaching
 section: k12
