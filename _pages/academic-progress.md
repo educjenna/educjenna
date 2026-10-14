@@ -6,6 +6,7 @@ description: Doctoral program milestones and dossier progress.
 nav: true
 nav_order: 6
 ---
+
 <style>
 .academic-entry {
   display: grid;
