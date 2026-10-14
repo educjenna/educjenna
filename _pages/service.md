@@ -145,5 +145,9 @@ _Service statement will be added as the dossier develops._
       src="{{ '/assets/img/portfolio/service/stembus3.jpeg' | relative_url }}"
       alt="Hands-on STEAM Night activity"
     >
+        <img
+      src="{{ '/assets/img/portfolio/service/stembus4.jpeg' | relative_url }}"
+      alt="Hands-on STEAM Night activity"
+    >
   </div>
 </div>

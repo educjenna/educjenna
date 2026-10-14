@@ -2,6 +2,7 @@
 layout: page
 title: "CSforGood Project"
 description: "Elementary students applying computer science and AI to community problems."
+img: assets/img/portfolio/research/csforgood_worksheet.png
 importance: 5
 category: research
 section: current

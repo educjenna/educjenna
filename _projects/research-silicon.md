@@ -3,6 +3,7 @@ layout: page
 title: "NSF SILICON Project"
 description: "Embodied, tangible learning experiences for the computing foundations of semiconductors."
 importance: 2
+img: assets/img/portfolio/research/silicon_1.jpeg
 category: research
 section: current
 ---

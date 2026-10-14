@@ -98,7 +98,7 @@ nav_order: 6
   <div class="academic-left">
     <img
       class="academic-logo"
-      src="{{ '/assets/img/snue_logo.jpg' | relative_url }}"
+      src="{{ '/assets/img/snue_logo.png' | relative_url }}"
       alt="Seoul National University of Education"
     >
     <div class="academic-date">March 2015 – February 2019</div>

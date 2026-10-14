@@ -43,8 +43,8 @@ _Teaching statement will be added as the dossier develops._
   </div>
 </div>
 <div class="teaching-gallery">
-  <img src="{{ '/assets/img/portfolio/teaching/w200 fall 26 - 1.png' | relative_url }}" alt="EDUC-W200 Teaching with Technology, Fall 2026">
-  <img src="{{ '/assets/img/portfolio/teaching/w200 fall 26 - 2.png' | relative_url }}" alt="EDUC-W200 Teaching with Technology, Fall 2026">
+  <img src="{{ '/assets/img/portfolio/teaching/w200fa26_1.png' | relative_url }}" alt="EDUC-W200 Teaching with Technology, Fall 2026">
+  <img src="{{ '/assets/img/portfolio/teaching/w200fa26_2.png' | relative_url }}" alt="EDUC-W200 Teaching with Technology, Fall 2026">
 </div>
 <div class="teaching-section"><h2>Teacher Professional Development</h2></div>
 
@@ -75,9 +75,9 @@ _Teaching statement will be added as the dossier develops._
     </ul>
     <div class="teaching-gallery">
       <img src="{{ '/assets/img/portfolio/teaching/ai-indiana-01.jpg' | relative_url }}" alt="AI in Indiana professional development">
-      <img src="{{ '/assets/img/portfolio/teaching/pd-indiana.png' | relative_url }}" alt="AI Across Indiana">
+      <img src="{{ '/assets/img/portfolio/teaching/pd-indiana.jpg' | relative_url }}" alt="AI Across Indiana">
       <img src="{{ '/assets/img/portfolio/teaching/ai-indiana-04.jpg' | relative_url }}" alt="AI in Indiana participants">
-      <img src="{{ '/assets/img/portfolio/teaching/ai-indiana-02.jpg' | relative_url }}" alt="Tangible AI professional development activity">
+      <img src="{{ '/assets/img/portfolio/teaching/ai-indiana-02.png' | relative_url }}" alt="Tangible AI professional development activity">
     </div>
   </div>
 </div>
@@ -112,7 +112,6 @@ _Teaching statement will be added as the dossier develops._
     <div class="teaching-gallery">
       <img src="{{ '/assets/img/portfolio/teaching/invited-talk-01.jpg' | relative_url }}" alt="Invited talk">
       <img src="{{ '/assets/img/portfolio/teaching/invited-talk-02.jpg' | relative_url }}" alt="District teacher professional development">
-      <img src="{{ '/assets/img/portfolio/teaching/invited-talk-03.jpg' | relative_url }}" alt="Invited professional learning session">
     </div>
   </div>
 </div>
