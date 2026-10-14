@@ -1,6 +1,6 @@
 ---
 layout: page
-title: candidate statement
+title: Candidate Statement
 permalink: /candidate-statement/
 description: Candidate statement for the doctoral dossier.
 nav: true

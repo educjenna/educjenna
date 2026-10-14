@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research
+title: Research
 permalink: /research/
 description: Research experiences, projects, publications, and scholarly development.
 nav: true

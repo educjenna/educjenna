@@ -1,6 +1,6 @@
 ---
 layout: page
-title: teaching
+title: Teaching
 permalink: /teaching/
 description: University teaching, teacher professional development, and K–12 instructional innovation.
 nav: true

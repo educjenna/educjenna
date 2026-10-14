@@ -1,6 +1,6 @@
 ---
 layout: page
-title: service
+title: Service
 permalink: /service/
 description: Leadership and service to the program, profession, and local educational community.
 nav: true
