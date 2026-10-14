@@ -8,8 +8,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p><strong>Ph.D. Student in Instructional Systems Technology</strong></p>
-    <p>Indiana University Bloomington</p>
+    jp191@iu.edu
 selected_papers: false
 social: true
 announcements:
