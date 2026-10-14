@@ -6,6 +6,7 @@ description: Doctoral program milestones and dossier progress.
 nav: true
 nav_order: 6
 ---
+
 <style>
   .academic-entry {
     display: grid;
@@ -88,7 +89,7 @@ nav_order: 6
 
 Doctoral coursework is substantially complete, including major-area and Research Methodology minor requirements. Remaining credits focus primarily on the R695 doctoral seminar sequence and dissertation research as the program progresses toward candidacy.
 
-[**View Full Plan of Studies →**](https://docs.google.com/spreadsheets/d/1a9c9IqVkMnZ_E-ERib5z-0IwXmaPFYq5-5zFWNUpiXA/edit?usp=sharing){:target="_blank" rel="noopener noreferrer"}
+[**View Full Plan of Studies →**](https://docs.google.com/spreadsheets/d/1a9c9IqVkMnZ_E-ERib5z-0IwXmaPFYq5-5zFWNUpiXA/edit?usp=sharing){:target="\_blank" rel="noopener noreferrer"}
 
 <div class="academic-entry">
   <div class="academic-left">
@@ -115,7 +116,6 @@ Doctoral coursework is substantially complete, including major-area and Research
   </div>
 </div>
 
-
 <div class="academic-entry">
   <div class="academic-left">
     <img
@@ -136,8 +136,6 @@ Doctoral coursework is substantially complete, including major-area and Research
     </div>
   </div>
 </div>
-
-
 
 ## Dossier Reviews
 

@@ -6,6 +6,7 @@ description: Candidate statement for the doctoral dossier.
 nav: true
 nav_order: 2
 ---
+
 <style>
   .section-bar {
     background: #faf4f8;
@@ -32,15 +33,23 @@ Education changes the world, and I have witnessed technology at the center of th
 </div>
 
 # Scaffolding Learners’ Thinking
+
 Scaffolding helps learners do what they cannot yet do alone, and its support fades as responsibility transfers to the learner (Pea, 2004; Wood et al., 1976). A key question guiding my research is **How can technology scaffold learners’ thinking without taking over the thinking they need to do themselves?** I investigate this question through two complementary approaches: **1) through the body (embodied cognition)** and 2) **through AI (self-regulated learning).**
 Through the body, I examine how embodied learning can make abstract ideas tangible through gestures, objects, and physical interaction. Through AI, I examine how learners can develop the self-regulation needed to manage their own thinking while using generative AI (GenAI), including deciding when to use AI support and when to rely on their own reasoning. Together, these strands examine how technology can provide support while progressively positioning learners to take greater responsibility for their own learning.
+
 ## 1. Embodied Cognition: Making Abstract Ideas Tangible
+
 Embodied learning can make abstract ideas tangible (Georgiou & Ioannou, 2019). As a teacher, and in my master's study on virtual reality and spatial ability, I saw young children struggle with ideas they could not see or touch. How computers count and how machines learn are just as invisible to them. Because understanding is grounded in perception and action (Barsalou, 2008), gestures and objects can make such processes tangible when they are congruent with the concept (Skulmowski & Rey, 2018). Our study with first graders at Bloomfield Elementary showed that such congruence often needs to be scaffolded (under review). Yet embodied computational thinking research has largely targeted programming concepts (Kwon et al., 2024). I extend this work to the area of computing and AI. In SILICON, we design lessons in which middle school students and their families act out binary numbers and logic gates and use number cards and counting chips for binary addition. In the Robot Arm project, we designed lessons with Grade 5 science teachers in which students explore machine learning with Teachable Machine and then experience embodied AI with MediaPipe and a robot arm. Together, these projects aim to extend embodied design beyond programming to how computers and AI actually work, offering design principles for turning invisible computing processes into actions young learners can perform, and classroom- and community-ready lessons that teachers and families can use.
+
 ## 2. Self-Regulated Learning: Managing Thinking with AI
+
 Whether AI scaffolds learning or invites overreliance depends less on the tool than on how learners use it. In AI Goes Rural, we designed chatbots for rural high school English classes. In an argumentation unit, tenth graders' AI literacy improved, yet some relied on the AI (Kwon et al., 2025); in a career preparation unit, the same AI was a scaffold for some students and a substitute for others (Kwon et al., 2026). Because many students used the AI as an answer generator, we constrained it in a persuasive writing unit so that it gave feedback without rewriting student text at all. Constraining the tool, however, was not enough. Cognitive offloading remained the most frequent pattern, and few students kept agency over their revisions (under review), echoing what Fan et al. (2025) call metacognitive laziness, in which learners let AI feedback replace their own self-monitoring. These experiences shifted my focus from constraining what AI can do to scaffolding how learners decide when and how to use it. Co-designing an AI-supported project-based unit at Ben Davis University High School, where students used AI to analyze local transit data and redesign bus routes, further sharpened my view that the goal is not simply to restrict AI, but to help learners decide what cognitive work to retain and what to hand over (work in progress).
+
 ## 3. First-Authored Study: Designing Scaffolds for Self-Regulated AI Use
+
 Supporting learners' decisions about what to hand over to AI requires understanding how they regulate their own thinking. Self-regulated learning (SRL) explains this regulation and why novices struggle with it (Zimmerman, 2002). In Winne and Hadwin's (1998) COPES model, learners judge feedback by comparing it with their own standards, the criteria they hold for good work. Novices such as PSTs, with limited pedagogical content knowledge, may lack those standards, so fluent AI evaluations go unchecked and invite them to offload effortful reasoning (Tankelevitch et al., 2024). Research on PSTs confirms this risk. They often treat GenAI-generated lesson plans as finished products with minimal edits (Tran et al., 2025) and overestimate their quality (Kalenda et al., 2025). Yet hybrid human–AI regulation models describe how regulation is shared between learners and adaptive systems (Järvelä et al., 2023; Molenaar, 2022) without specifying how an individual learner decides what to do with an AI evaluation, and existing work has mostly urged PSTs to evaluate AI outputs critically (Cai et al., 2025) rather than designing environments that support that evaluation.
 My first-author design-based study addresses this gap. Drawing on interviews with experienced instructors and undergraduate learning assistants about lesson planning, I designed an AI prototype that prompts PSTs to compare AI feedback with their own standards and to accept, adapt, or reject it with a pedagogical rationale. I implemented it in two course sections in Spring 2026 and a revised version in three sections in Fall 2026.
+
 <div class="section-bar">
   <h2>Goals for Teaching</h2>
 </div>
