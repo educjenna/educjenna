@@ -117,7 +117,34 @@ _Service statement will be added as the dossier develops._
 
 <div class="service-org">
   <div class="service-org-grid">
-    <div><div class="service-role">STEM Bus Community Outreach</div><div class="service-date">Bloomington, Indiana</div></div>
-    <div><ul><li>Participated in STEM Bus community outreach activities in the Bloomington area.</li></ul></div>
+    <div>
+      <div class="service-role">STEAM Night</div>
+      <div class="service-date">Bloomington, Indiana</div>
+      <div class="service-date">Fall 2024 – Fall 2026</div>
+      <div class="service-date">Organizer · Indiana University</div>
+    </div>
+    <div>
+      <ul>
+        <li>
+          Organized and led STEAM Nights for MCCSC, providing families and students
+          with hands-on experiences in technology and STEAM education.
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="service-photo-grid">
+    <img
+      src="{{ '/assets/img/portfolio/service/stembus.JPG' | relative_url }}"
+      alt="STEAM Night community outreach activity"
+    >
+    <img
+      src="{{ '/assets/img/portfolio/service/stembus2.jpg' | relative_url }}"
+      alt="Families participating in STEAM Night"
+    >
+    <img
+      src="{{ '/assets/img/portfolio/service/stembus3.jpeg' | relative_url }}"
+      alt="Hands-on STEAM Night activity"
+    >
   </div>
 </div>
