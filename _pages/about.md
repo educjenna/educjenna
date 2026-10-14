@@ -16,7 +16,8 @@ announcements:
 latest_posts:
   enabled: false
 ---
-Juhyun Park is a third-year Ph.D. student in Instructional Systems Technology at Indiana University Bloomington and a former public elementary school teacher in Seoul, South Korea. Her research focuses on **designing technology-supported learning environments that help learners engage with complex ideas while encouraging them to actively think, evaluate, and make decisions for themselves**. She is particularly interested in how these environments can support young learners and novices, including pre-service teachers. 
+
+Juhyun Park is a third-year Ph.D. student in Instructional Systems Technology at Indiana University Bloomington and a former public elementary school teacher in Seoul, South Korea. Her research focuses on **designing technology-supported learning environments that help learners engage with complex ideas while encouraging them to actively think, evaluate, and make decisions for themselves**. She is particularly interested in how these environments can support young learners and novices, including pre-service teachers.
 
 Her research develops along two complementary strands. In **embodied and tangible learning**, she studies how physical representations and interactions can make abstract computing and AI concepts more accessible to learners. In **AI-supported learning**, she examines how learners use and respond to generative AI, with particular attention to cognitive offloading and self-regulated learning. Across both strands, she is interested in how instructional design can provide appropriate support while keeping learners actively involved in the learning process.
 
