@@ -29,6 +29,7 @@ Education changes the world, and I have witnessed technology at the center of th
 <img src="{{ '/assets/img/candidate_intro.png' | relative_url }}"
      alt="Research and instructional design activities"
      style="width: 50%; border-radius: 8px;">
+
 <div class="section-bar">
   <h2>Goals for Research</h2>
 </div>
