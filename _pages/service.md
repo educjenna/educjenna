@@ -132,7 +132,7 @@ _Service statement will be added as the dossier develops._
     </div>
   </div>
 
-  <div class="service-photo-grid">
+  <div class="service-gallery">
     <img
       src="{{ '/assets/img/portfolio/service/stembus.JPG' | relative_url }}"
       alt="STEAM Night community outreach activity"
