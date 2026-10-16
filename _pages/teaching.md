@@ -124,13 +124,13 @@ _Teaching statement will be added as the dossier develops._
     <div class="teaching-role">Tenured Public Elementary School Teacher</div>
     <div class="teaching-date">2019–2024 · Seoul, South Korea</div>
     <div class="teaching-role">STEAM Gifted Education Instructor (Maths+Science)</div>
-    <div class="teaching-date">2020–2023 · Seoul, South Korea</div>
+    <div class="teaching-date">2021–2023 · Seoul, South Korea</div>
   </div>
   <div class="teaching-details">
     <ul>
       <li>Taught Grades 4 and 6 and designed localized, technology-supported curriculum and learning experiences.</li>
       <li>Developed after-school learning support for underachieving students and led AI/software learning experiences.</li>
-      <li>Taught AI, computer science, and data science for gifted learners at the Integrated STEM Gifted Education Institute (2021–2024).</li>
+      <li>Taught AI, computer science, and data science for gifted learners at the Integrated STEM Gifted Education Institute (2021–2023).</li>
     </ul>
   </div>
 </div>
