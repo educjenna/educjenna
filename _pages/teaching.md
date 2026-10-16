@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 permalink: /teaching/
-description: University teaching, teacher professional development, and K–12 instructional innovation.
+description: Higher Education Teaching, Teacher Professional Development, and K–12 Teaching.
 nav: true
 nav_order: 4
 ---
@@ -32,12 +32,12 @@ _Teaching statement will be added as the dossier develops._
     <h3>Indiana University Bloomington</h3>
     <div class="teaching-role">EDUC-W200: Teaching with Technology</div>
     <div>Associate Instructor / Instructor of Record</div>
-    <div class="teaching-date">Fall 2025 · Spring 2026</div>
+    <div class="teaching-date">Fall 2025 · Spring 2026 (3 Sessions)</div>
   </div>
   <div class="teaching-details">
     <ul>
-      <li>Teaches a project-based course for pre-service teachers focused on purposeful technology integration.</li>
-      <li>Supports learning around inclusion and diversity, technology for productivity, makerspaces, and technology-enhanced lesson design.</li>
+      <li>Teaches a project-based course for pre-service teachers focused on meaningful technology integration.</li>
+      <li>Supports learning around inclusion and diversity, technology for productivity, makerspaces, and technology-enhanced assessment.</li>
       <li>Guides students in developing technology-integrated lesson plans and professional ePortfolios.</li>
     </ul>
   </div>
@@ -71,7 +71,7 @@ _Teaching statement will be added as the dossier develops._
   <div class="teaching-details">
     <ul>
       <li>Supported Indiana educators in exploring artificial intelligence and its classroom applications.</li>
-      <li>Facilitated discussion of practical instructional uses and considerations for integrating AI in teaching.</li>
+      <li>Facilitated discussion of instructional uses and considerations for integrating AI in teaching.</li>
     </ul>
     <div class="teaching-gallery">
       <img src="{{ '/assets/img/portfolio/teaching/ai-indiana-01.jpg' | relative_url }}" alt="AI in Indiana professional development">
@@ -109,10 +109,10 @@ _Teaching statement will be added as the dossier develops._
       <li>Connected emerging technologies with practical classroom applications and pedagogically grounded integration.</li>
       <li>Delivered the 2023 invited session “Effective Classroom Integration of Generative AI.”</li>
     </ul>
-    <div class="teaching-gallery">
-      <img src="{{ '/assets/img/portfolio/teaching/invited-talk-01.jpg' | relative_url }}" alt="Invited talk">
-      <img src="{{ '/assets/img/portfolio/teaching/invited-talk-02.jpg' | relative_url }}" alt="District teacher professional development">
-    </div>
+<div class="teaching-gallery no-crop">
+  <img src="{{ '/assets/img/portfolio/teaching/Itda_PD.JPG' | relative_url }}" alt="Invited talk">
+  <img src="{{ '/assets/img/portfolio/teaching/invited-talk-02.jpg' | relative_url }}" alt="District teacher professional development">
+</div>
   </div>
 </div>
 
@@ -123,6 +123,8 @@ _Teaching statement will be added as the dossier develops._
     <h3>Seoul Metropolitan Office of Education</h3>
     <div class="teaching-role">Tenured Public Elementary School Teacher</div>
     <div class="teaching-date">2019–2024 · Seoul, South Korea</div>
+    <div class="teaching-role">STEAM Gifted Education Instructor (Maths+Science)</div>
+    <div class="teaching-date">2020–2023 · Seoul, South Korea</div>
   </div>
   <div class="teaching-details">
     <ul>
